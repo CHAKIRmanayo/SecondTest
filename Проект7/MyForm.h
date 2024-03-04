@@ -207,7 +207,6 @@ namespace SecondTest {
 		newP.X += points[index].X;
 		newP.Y += points[index].Y;
 		return newP;
-		;
 	}
 
 	private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
